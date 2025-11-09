@@ -32,12 +32,12 @@ The app is deployed on a Tomcat server running on AWS, ensuring smooth and conti
 
 ## Architecture Setup :
 
-### 🟢 Server 1: Jenkins Server
+### Server 1: Jenkins Server
 - Installed Jenkins  
 - Installed Maven  
 - Configured Git and environment variables  
 
-### 🔵 Server 2: Tomcat Server
+### Server 2: Tomcat Server
 - Installed Apache Tomcat  
 - Deployed WAR file generated from Jenkins pipeline  
 
